@@ -46,8 +46,8 @@ Images are resized, normalized, and split into training and validation sets befo
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/face-mask-detection-cnn.git
-cd face-mask-detection-cnn
+git clone https://github.com/https://github.com/Engr-Mujeeb-Rahman/FaceMaskDetection-Using-CNN.git
+cd FaceMaskDetection-Using-CNN
 ```
 
 ### 2. Install dependencies
