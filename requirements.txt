@@ -6,3 +6,4 @@ Pillow
 streamlit-option-menu
 opencv-python
 tensorflow
+cv2
